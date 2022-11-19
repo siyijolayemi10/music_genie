@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "music_genie", "music_genie\music_genie.pyproj", "{B51AB66F-A45A-484B-B66C-2F0D0D33D01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51AB66F-A45A-484B-B66C-2F0D0D33D01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51AB66F-A45A-484B-B66C-2F0D0D33D01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD42F425-5F96-4A78-8811-2E206ADD09FE}
+	EndGlobalSection
+EndGlobal
